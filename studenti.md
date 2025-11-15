@@ -1,4 +1,4 @@
-# Studenti
+# Studenți
 
 Fie o clasă `Facultate` ce administrează studenții unei facultăți. Un student este caracterizat de un număr matricol (sub formă de șir de caractere), numele studentului, anul înmatriculării și media generală a acestuia. Clasa `Facultate` are in proprietatea ei și un tablou de studenți. Numărul maxim de studenți va fi specificat în constructorul clasei.
 
