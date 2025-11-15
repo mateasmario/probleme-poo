@@ -7,3 +7,5 @@ Implementați următoarele metode din clasa `Facultate`:
 2. Metoda `stergeStudent`, care ia ca parametru numărul matricol al studentului și îl șterge din tablou. Metoda returnează `true` dacă studentul cu numărul respectiv a fost găsit. Altfel, va returna `false`.
 3. Metoda `calculNumarStudentiTrecuti`, care returnează numărul de studenți care au medie de trecere.
 4. Metoda `calculNumarStudentiPicati`, care returnează numărul de studenți picați, **fără să parcurgă** tabloul. Metoda trebuie să se folosească de `calculNumarStudentiTrecuti`.
+
+Se va implementa și o metodă `main` într-o clasă separată, care va testa funcționalitatea metodelor definite mai sus.
