@@ -1,0 +1,8 @@
+# Probleme POO
+
+Link-urile către problemele din acest repository, alături de nivelele de dificultate, se găsesc și mai jos.
+
+|Nume problemă|Dată adăugare|Nivel dificultate|
+| :--- | :--- | :---: |
+|[Revistă](https://github.com/mateasmario/probleme-poo/blob/main/revista.md)|15.11.2025|:green_circle::green_circle::white_circle::white_circle::white_circle:
+|[Studenți](https://github.com/mateasmario/probleme-poo/blob/main/studenti.md)|15.11.2025|:green_circle::white_circle::white_circle::white_circle::white_circle:|
