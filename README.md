@@ -6,3 +6,4 @@ Link-urile către problemele din acest repository, alături de nivelele de dific
 | :--- | :--- | :---: |
 |[Revistă](https://github.com/mateasmario/probleme-poo/blob/main/revista.md)|15.11.2025|:green_circle::green_circle::white_circle::white_circle::white_circle:
 |[Studenți](https://github.com/mateasmario/probleme-poo/blob/main/studenti.md)|15.11.2025|:green_circle::white_circle::white_circle::white_circle::white_circle:|
+|[XML](https://github.com/mateasmario/probleme-poo/blob/main/xml.md)|15.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
