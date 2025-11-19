@@ -25,9 +25,9 @@ Etichetele cu atribute arată așa:
 ```
 
 Implementați următoarele metode în clasa `Eticheta`:
-1. `adaugăCopil(Eticheta e)`, care adaugă eticheta dată ca parametru în tabloul de etichete al obiectului pe care este apelat
-2. `adaugaAtribut(Atribut a)`, care adaugă atributul dat ca parametru în tabloul de atribute al obiectului pe care este apelat
-3. `toString()`, care afișează eticheta, cu tot cu atributele și copiii ei, în structura corectă XML, exemplificată mai sus.
+1. Metoda `adaugăCopil(Eticheta e)`, care adaugă eticheta dată ca parametru în tabloul de etichete al obiectului pe care este apelat
+2. Metoda `adaugaAtribut(Atribut a)`, care adaugă atributul dat ca parametru în tabloul de atribute al obiectului pe care este apelat
+3. O metodă ce returnează reprezentarea sub formă de șir de caractere a unei etichete, cu tot cu numele, atributele și copiii ei, în structura corectă XML, exemplificată mai sus.
 
 Creați o metodă `main` într-o clasă separată, unde veți crea structura definită mai jos și veți verifica dacă reprezentarea sub formă de șir de caractere este corectă.
 
