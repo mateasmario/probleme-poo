@@ -9,4 +9,5 @@ Link-urile către problemele din acest repository, alături de nivelele de dific
 |[Vas](https://github.com/mateasmario/probleme-poo/blob/main/vas.md)|19.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
 |[Seifuri](https://github.com/mateasmario/probleme-poo/blob/main/seifuri.md)|16.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
 |[XML](https://github.com/mateasmario/probleme-poo/blob/main/xml.md)|16.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
+|[Lift](https://github.com/mateasmario/probleme-poo/blob/main/lift.md)|19.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
 |[Parolă](https://github.com/mateasmario/probleme-poo/blob/main/parola.md)|19.11.2025|:yellow_circle::yellow_circle::yellow_circle::yellow_circle::white_circle:|
