@@ -1,4 +1,4 @@
-# Seifuri
+# Seif
 
 Se va implementa funcționalitatea unui seif cu cifru, care poate fi deblocat cu ajutorul unei chei. Clasa `Seif` va fi caracterizată de un identificator (șir de caractere), un cifru (număr), și un identificator de cheie. Toate cele trei proprietăți pot fi date prin constructor. Clasa `Cheie` va fi și ea caracterizată de un identificator propriu.
 
