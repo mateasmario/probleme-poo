@@ -1,6 +1,6 @@
 # Parolă
 
-Clasa `VerificatorParola`, verifică dacă o parolă nouă verifică condițiile minime de securitate. Constructorul clasei va primi ca parametru un tablou de condiții.
+Clasa `VerificatorParola` verifică dacă o parolă nouă verifică condițiile minime de securitate. Constructorul clasei va primi ca parametru un tablou de condiții.
 
 Fiecare condiție este reprezentată de o clasă ce implementează o interfață (sau o clasă abstractă) `Conditie`, în care este definită metoda abstractă `indeplinesteConditie(String parola)`, ce returnează `true`, dacă parola îndeplinește cerințele, și `false`, altfel.
 
