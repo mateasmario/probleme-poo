@@ -5,6 +5,7 @@ Link-urile către problemele din acest repository, alături de nivelele de dific
 |Nume problemă|Dată adăugare|Nivel dificultate|
 | :--- | :--- | :---: |
 |[Facultate](https://github.com/mateasmario/probleme-poo/blob/main/facultate.md)|15.11.2025|:green_circle::white_circle::white_circle::white_circle::white_circle:|
+|[Vot](https://github.com/mateasmario/probleme-poo/blob/main/vot.md)|15.11.2025|:green_circle::white_circle::white_circle::white_circle::white_circle:|
 |[Revistă](https://github.com/mateasmario/probleme-poo/blob/main/revista.md)|15.11.2025|:green_circle::green_circle::white_circle::white_circle::white_circle:|
 |[Vas](https://github.com/mateasmario/probleme-poo/blob/main/vas.md)|19.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
 |[Seif](https://github.com/mateasmario/probleme-poo/blob/main/seif.md)|16.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
