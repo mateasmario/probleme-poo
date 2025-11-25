@@ -1,6 +1,6 @@
 # Seif
 
-Se va implementa funcționalitatea unui seif cu cifru, care poate fi deblocat cu ajutorul unei chei. Clasa `Seif` va fi caracterizată de un identificator (șir de caractere), un cifru (număr), și un identificator de cheie. Toate cele trei proprietăți pot fi date prin constructor. Clasa `Cheie` va fi și ea caracterizată de un identificator propriu.
+Se va implementa funcționalitatea unui seif cu cifru, care poate fi deblocat cu ajutorul unei chei. Clasa `Seif` va fi caracterizată de un cifru (număr) și un identificator de cheie. Ambele proprietăți vor fi date prin constructor. Clasa `Cheie` va fi și ea caracterizată de un identificator propriu.
 
 Implementați următoarele metode în clasa `Seif`:
 1. Metoda `deschide(int cifru)`, care verifică dacă cifrul dat ca parametru este același cu cel din proprietatea seifului. În cazul în care se introduce un cifru greșit de 3 ori, seiful se va bloca și nu va mai putea fi deschis cu cifrul. Metoda returnează `true`, dacă s-a reușit deschiderea, și `false`, altfel.
