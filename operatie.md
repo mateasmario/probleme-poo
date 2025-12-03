@@ -27,6 +27,6 @@ Implementați o metodă ce returnează o operație sub formă de șir de caracte
 
 Pentru obiectul de tip `Adunare` definit în exemplul din Cerința 1, se va returna următorul șir de caractere: `3+4+(5*6)`.
 
-### Cerința 3
+## Cerința 3
 
 Implementați o metodă `main` în care să testați funcționalitatea metodelor implementate.
