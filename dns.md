@@ -1,6 +1,6 @@
 # DNS
 
-DNS este sistemul care traduce numele de domeniu în adresele IP aferente lor. Spre exemplu, adresa `google.com` va fi tradusă în `142.250.184.238`. Acest sistem este motivul pentru care nu suntem nevoiți să memorăm adrese IP ale diferitelor site-uri.
+DNS este sistemul care traduce numele de domeniu în adresele IP aferente lor. Spre exemplu, adresa `google.com` va fi tradusă în `142.250.184.238`. Acest sistem este motivul pentru care nu suntem nevoiți să memorăm adresele IP ale site-urilor pe care vrem să le accesăm.
 
 Clasa `ServerDNS` ține în starea ei un tablou de cereri și un dicționar (vezi [HashMap](https://www.w3schools.com/java/java_hashmap.asp)) cu domenii ca și cheie, și adresele IP ale acestora ca valori. Atât domeniile, cât și adresele IP, sunt reprezentate prin șiruri de caractere.
 
