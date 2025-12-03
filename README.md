@@ -13,3 +13,4 @@ Link-urile către problemele din acest repository, alături de nivelele de dific
 |[Lift](https://github.com/mateasmario/probleme-poo/blob/main/lift.md)|19.11.2025|:yellow_circle::yellow_circle::yellow_circle::white_circle::white_circle:|
 |[Parolă](https://github.com/mateasmario/probleme-poo/blob/main/parola.md)|19.11.2025|:yellow_circle::yellow_circle::yellow_circle::yellow_circle::white_circle:|
 |[Operație](https://github.com/mateasmario/probleme-poo/blob/main/operatie.md)|19.11.2025|:red_circle::red_circle::red_circle::red_circle::red_circle:|
+|[Elevi](https://github.com/mateasmario/probleme-poo/blob/main/elevi.md)|03.12.2025|:red_circle::red_circle::red_circle::red_circle::red_circle:|
