@@ -4,7 +4,7 @@ DNS este sistemul care traduce numele de domeniu în adresele IP aferente lor. S
 
 Clasa `ServerDNS` ține în starea ei un tablou de cereri și un dicționar (vezi [HashMap](https://www.w3schools.com/java/java_hashmap.asp)) cu domenii ca și cheie, și adresele IP ale acestora ca valori. Atât domeniile, cât și adresele IP, sunt reprezentate prin șiruri de caractere.
 
-Un obiect de tip `Cerere` este reprezentat de host (șir de caractere) și de status (boolean).
+Un obiect de tip `Cerere` este reprezentat de un "host" (șir de caractere) și un status al cererii (boolean).
 
 Implementați următoarele metode din clasa `ServerDNS`:
 1. Metoda `creeazaCerere(Cerere c)`, care simulează o navigare a unui utilizator pe o adresă web. Apelul metodei va adăuga în tabloul de cereri obiectul dat ca parametru.
