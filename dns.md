@@ -9,6 +9,6 @@ Un obiect de tip `Cerere` este reprezentat de un "host" (șir de caractere) și 
 Implementați următoarele metode din clasa `ServerDNS`:
 1. Metoda `creeazaCerere(Cerere c)`, care simulează o navigare a unui utilizator pe o adresă web. Apelul metodei va adăuga în tabloul de cereri obiectul dat ca parametru.
 2. Metoda `rezolva()`, care trece prin fiecare cerere din tablou și verifică dacă domeniul din câmpul `host` se află printre cheile din dicționarul serverului. În cazul în care domeniul există, se va seta status-ul cererii respective pe `true`, iar câmpul `host` va fi înlocuit cu IP-ul aferent domeniului din dicționar.
-3. Metoda `rezolva(int maxim)`, care funcționează la fel cu metoda supraîncărcată, dar se oprește la numărul `maxim` de domenii rezolvate.
+3. Metoda `rezolva(int maxim)`, care funcționează la fel ca metoda supraîncărcată, dar se oprește la numărul `maxim` de domenii rezolvate.
 
 Implementați și o metodă `main`, în care să testați funcționalitatea claselor și metodelor implementate.
