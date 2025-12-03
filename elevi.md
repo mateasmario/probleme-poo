@@ -9,8 +9,8 @@ Pentru repartiția elevilor vor exista doi algoritmi:
 Cei doi algoritmi vor fi implementați în două clase diferite, ce implementează interfața `AlgoritmRepartitie`, caracterizată prin metoda `repartizeaza(String numeElev, Clasa[] clase)`.
 
 Implementați următoarele metode din clasa Liceu:
-1. Metoda `adaugaClasa(Clasa c)`, care adaugă clasa dată ca parametru în tabloul de clase
-2. Metoda `adaugaClasa(int numarMaximElevi)`, care creează o nouă clasă cu numărul de elevi dat ca parametru și o adaugă în tablou de clase
-3. Metoda `repartizeazaElev(String numeElev, AlgorithmRepartitie a`), care apelează metoda `repartizeaza` din al doilea parametru cu numele elevului și tabloul de clase din proprietatea liceului
+1. Metoda `adaugaClasa(Clasa c)`, care adaugă clasa dată ca parametru în tabloul de clase.
+2. Metoda `adaugaClasa(int numarMaximElevi)`, care creează o nouă clasă cu numărul de elevi dat ca parametru și o adaugă în tablou de clase.
+3. Metoda `repartizeazaElev(String numeElev, AlgorithmRepartitie a`), care apelează metoda `repartizeaza` din al doilea parametru cu numele elevului și tabloul de clase din proprietatea liceului.
 
 Implementați și o metodă `main` în care să testați funcționalitatea algoritmilor de repartiție.
